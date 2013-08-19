@@ -1,0 +1,10 @@
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\bin\Debug\PsychExperimentProgram.exe
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\bin\Debug\PsychExperimentProgram.pdb
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\PsychExperimentProgram.Form1.resources
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\PsychExperimentProgram.Properties.Resources.resources
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\ResGen.read.1.tlog
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\ResGen.write.1.tlog
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\PsychExperimentProgram.exe
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\obj\x86\Debug\PsychExperimentProgram.pdb
+G:\Projects\VS2010\PsychExperimentProgram\PsychExperimentProgram\bin\Debug\MassMed.Data.dll
